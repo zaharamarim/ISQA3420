@@ -1,16 +1,16 @@
 #Data Flow Diogram Dictionary
 
-Entities:
-Corporate Developer: a person develop a software.
-National Vulnerability Database: is an entity that hold vulnerable data.
-Corporate Manager: a person who lead the team project.
-Process:
-Mange Code Stream: is a processer that manage the files and packages come from the Corporate             Developer. 
-Manage Project Information: is a processer that manage the project information.
-Manage CPE Information (Daily Job): process the data.
-Data Store:
-Risk DB: store vulnerable package and CPE information.
-NIST CPE Information: is a database where Mange Code Stream stored.
+#ntities:
+###Corporate Developer: a person develop a software.
+###National Vulnerability Database: is an entity that hold vulnerable data.
+###Corporate Manager: a person who lead the team project.
+#Process:
+###Mange Code Stream: is a processer that manage the files and packages come from the Corporate             Developer. 
+###Manage Project Information: is a processer that manage the project information.
+###Manage CPE Information (Daily Job): process the data.
+#Data Store:
+###Risk DB: store vulnerable package and CPE information.
+###NIST CPE Information: is a database where Mange Code Stream stored.
 Data Flow:
 File: sent by the Developer to Mange Code Stream processer.
 Package: sent by the Developer to Mange Code Stream processer.
