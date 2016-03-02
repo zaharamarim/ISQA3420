@@ -1,6 +1,6 @@
 #Executive Summary
 
-#####From: Khedir Bushara and Aida Ahamed
+#####From: Khedir Bushara and Aida Ahmed
 #####To: Mr. Raymond Germonprez
 #####Date: 2/262016
 
