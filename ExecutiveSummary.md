@@ -22,6 +22,7 @@ Executive Summary of the Designed System
 * Organizational structure
 * ocial Responsibility
 * artner with my teammate
+
 ######We are designing a system to manage the inflow of external source 
 ######Explicate the license and vulnerability information associated with that external source.
 
