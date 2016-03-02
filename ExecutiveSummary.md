@@ -1,7 +1,5 @@
 #Executive Summary
 
-Executive Summary of the Designed System
-
 #####From: Khedir Bushara and Aida Ahamed
 #####To: Mr. Raymond Germonprez
 #####Date: 2/262016
