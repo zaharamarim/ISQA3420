@@ -1,7 +1,7 @@
 #Data Flow Diogram Dictionary
 
-###ntities:
-######Corporate Developer: a person develop a software.
+### ntities:
+###### Corporate Developer: a person develop a software.
 ######National Vulnerability Database: is an entity that hold vulnerable data.
 ######Corporate Manager: a person who lead the team project.
 ###Process:
