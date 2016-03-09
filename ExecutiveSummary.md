@@ -5,7 +5,7 @@
 ######Open source software is a significant business risk for an enterprise, is the significant security risk for corporation that use it because in many cases, for example, open source software packages and each community’s response to security issues. The goal was to find out if the community for each open source software package was responsive to security questions or vulnerability findings; published security guidelines maintained a secure.
 
 
-######Open source software is a significatn business risk for an enterprise, is the significan security risk for corporation that use it because in many cases, for example, open source software pagkages and each community'response to security issues. The goal was to find out if the community for each open soure software package was responsive to security questions or vulnerability findings; published security guidelines maintained a secure.
+####### Open source software is a significatn business risk for an enterprise, is the significan security risk for corporation that use it because in many cases, for example, open source software pagkages and each community'response to security issues. The goal was to find out if the community for each open soure software package was responsive to security questions or vulnerability findings; published security guidelines maintained a secure.
 
 
 
