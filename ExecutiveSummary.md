@@ -6,15 +6,15 @@
 
 
 ###Problems: 
-* There is risk to the community if participants do not meet expectations as maintainers, implementing critical features in ways negatively impacting release quality or release timeline. 
-* There is risk to participants if the community cannot sustain a leveraged development model, requiring abnormal stabilizing resources from participants. 
-* here is risk to participants, stemming from accidental or intentional non-compliance with open source licenses as expressed by the community.
+*  
+*  
+* 
 
 ###Solutions:
 ######We are going to model a system to help with this issue 
 * Motivation as result, we are going to see changes in management principals 
 * uthority and control
-* ecision making 
+* Decision making 
 * Organizational structure
 * ocial Responsibility
 * artner with my teammate
