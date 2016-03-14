@@ -1,1 +1,1 @@
-#Sample Software & 
+#Sample Software Manifest & Sample Policy Document
