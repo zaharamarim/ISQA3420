@@ -21,11 +21,11 @@
 ######Trigger:
 
 ####Use Case 3:
-Title:  Check Vulnerabilities
-Primary Actor: Manger
-Goal in Context: Check vulnerabilities information for all external source used by user.
-Stakeholders: Manger
-Preconditions: Manger is able to check in external source code/ Policies to vulnerability system
-Main Source Scenario: 
-Failed End Conditions:
+######Title:  Check Vulnerabilities
+######Primary Actor: Manger
+######Goal in Context: Check vulnerabilities information for all external source used by user.
+######Stakeholders: Manger
+######Preconditions: Manger is able to check in external source code/ Policies to vulnerability system
+######Main Source Scenario: 
+######Failed End Conditions:
 Trigger:
