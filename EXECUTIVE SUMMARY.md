@@ -1,6 +1,6 @@
-Executive Summary of the Designed System
+#Executive Summary of the Designed System
 ###Introduction
-######Open source software is a significatn business risk for an enterprise, is the significan security risk for corporation that use it because in many cases, for example, open source software pagkages and each community'response to security issues. The goal was to find out if the community for each open soure software package was responsive to security questions or vulnerability findings; published security guidelines maintained a secure.
+Open source software is a significatn business risk for an enterprise, is the significan security risk for corporation that use it because in many cases, for example, open source software pagkages and each community'response to security issues. The goal was to find out if the community for each open soure software package was responsive to security questions or vulnerability findings; published security guidelines maintained a secure.
 
 ###Problems:
 •	Data storage 
