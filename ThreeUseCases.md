@@ -16,6 +16,7 @@
 ######Goal in Context: 
 ######Stakeholders: Developer / Manager
 ######Preconditions:
+######Main Success Scenario:
 ######Failed End Conditions:
 ######Trigger:
 
@@ -26,3 +27,5 @@ Goal in Context: Check vulnerabilities information for all external source used 
 Stakeholders: Manger
 Preconditions: Manger is able to check in external source code/ Policies to vulnerability system
 Main Source Scenario: 
+Failed End Conditions:
+Trigger:
