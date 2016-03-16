@@ -14,11 +14,11 @@
 ######Title: Manager check code for copyright
 ######Primary Actor: Manager
 ######Goal in Context: check code for copyright information for all external source used by user.
-######Stakeholders: Developer / Manager
+######Stakeholders: Developer/ Manager
 ######Preconditions:Manger is able to check in external source code to vulnerablitiy system.
 ######Main Success Scenario: Manger/Devloper is able to checkin code and vulnerablitiy information is recorded to the Risk DB.
 ######Failed End Conditions: Manger is unable to check in code for copyright. checked in code is not checked for vulnerablities, failing to update Risk DB.
-######Trigger: code copyright check in.
+######Trigger: copyright code check in.
  
 ####Use Case 3:
 ######Title:  Check Vulnerabilities
