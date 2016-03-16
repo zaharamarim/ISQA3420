@@ -27,5 +27,5 @@
 ######Stakeholders: Manger
 ######Preconditions: Manger is able to check in external source code/ Policies to vulnerability system
 ######Main Source Scenario: Manger is able to check in and vulunerability information is recorded to the Risk DB.
-######Failed End Conditions: Manger is unable to check in vulunerability, failing to update Risk DB.
-######Trigger: Vulnerbility check in.
+######Failed End Conditions: Manger is unable to check in vulnerability, failing to update Risk DB.
+######Trigger: Vulnerability check in.
