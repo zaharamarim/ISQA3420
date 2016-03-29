@@ -12,7 +12,7 @@ Open source software is a significatn business risk for an enterprise, is the si
 •	 
 •	Manual process is not needed to show the sending of a document; sending should be apparent from the movement of the document.
 •	Do not use manual processes to file documents; show document going into files.
-•	
+•	the open source and a code should be legal.
 
 
 
