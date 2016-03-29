@@ -1,9 +1,9 @@
 #Sample Software Manifest & Sample Policy Document
-Package:
+####Package:
 Package Name
 A person who proof it
 Vulnerabilities
 CPE
-Policy Document:
+####Policy Document:
 Copyright
 Vulnerabilities
