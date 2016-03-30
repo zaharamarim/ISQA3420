@@ -4,6 +4,4 @@
 ######A person who proof it
 ######Vulnerabilities
 ######CPE
-####Policy Document:
-######Copyright
-######Vulnerabilities
+
