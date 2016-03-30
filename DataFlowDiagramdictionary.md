@@ -1,13 +1,15 @@
 #Data Flow Diagram Dictionary
 
 ### ntities:
-###### Corporate Developer: a person develop a software.
+######Corporate Developer: a person develop a software.
 ######National Vulnerability Database: is an entity that hold vulnerability data.
 ######Corporate Manager: a person who lead the team project.
 ###Process:
 ######Mange Code Stream: is a process that manage the files and packages come from the Corporate Developer. 
 ######Manage Project Information: is a process that manage the project information.
 ######Manage CPE Information (Daily Job): process the data.
+######Risk Determination: is a process that determine the database risk.
+######Control Recommendation: is a process that recommend data from risk database.
 ###Data Store:
 ######Risk DB: store vulnerability packages and CPE information.
 ######NIST CPE Information: is a database where Mange Code Stream stored.
