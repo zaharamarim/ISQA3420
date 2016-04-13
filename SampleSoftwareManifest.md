@@ -1,4 +1,4 @@
-#Sample Software Manifest & Sample Policy Document
+#Sample Software Manifest 
 ####Package:
 ######Package Name
 ######A person who proof it
