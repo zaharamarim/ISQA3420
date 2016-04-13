@@ -1,4 +1,8 @@
 #Sample Policy Document
 ####Policy Document:
 ######Copyright
-######Vulnerabilities
+###### A person who proof it
+###### Date
+###### Context
+###### Throshold
+###### Resopnse
